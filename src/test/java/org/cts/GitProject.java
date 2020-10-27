@@ -6,6 +6,8 @@ public class GitProject {
 		
 		System.out.println("hello");
 		System.out.println("sheik");
+		System.out.println("day1");
+		System.out.println("day2");
 		
 	}
 
